@@ -1,0 +1,18 @@
+{
+    "name": "SYNPCB",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "http://localhost:3978/api/messages",
+            "id": "219e7930-e5b1-11ee-9cba-25e199c6fde4",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "/Users/avneeshkumar/Desktop/synaptical-chat-bot/SYNPCB.bot",
+    "overrides": null
+}
