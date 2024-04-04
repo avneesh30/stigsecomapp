@@ -1,0 +1,33 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "azureBotId": {
+      "value": "NodeProjectBotAppAzureBot"
+    },
+    "azureBotSku": {
+      "value": "S1"
+    },
+    "azureBotRegion": {
+      "value": "global"
+    },
+    "botEndpoint": {
+      "value": "https://nodeprojectbotapp.azurewebsites.net/api/messages"
+    },
+    "appType": {
+      "value": "MultiTenant"
+    },
+    "appId": {
+      "value": "313bb7ad-e7ac-45b1-a02b-6b7376f0cff5"
+    },
+    "UMSIName": {
+      "value": "NodeProjectBotAppUMSI"
+    },
+    "UMSIResourceGroupName": {
+      "value": "NodeProjectBotAppRGUMSI"
+    },
+    "tenantId": {
+      "value": "72784b1c-9df2-456a-b0e1-ea490914e876"
+    }
+  }
+}
